@@ -7,7 +7,7 @@ User stories, on the other hand, are short, simple descriptions of a feature tol
 
 <blockquote>
 As a [type of user], I want [some goal] so that [some reason].
-<blockquote>
+</blockquote>
 
 For example:
 
