@@ -59,7 +59,8 @@ Imagine that you're developing an online store. The backlog could include user s
 ## Topic 4: Collaboration with Software Teams and Hardware Experts
 In an agile environment, collaboration is key. For writing effective user stories and building a high-quality backlog, regular interactions with software teams and hardware experts are crucial. These collaborations could take the form of:
 
-* Regular backlog grooming meetings* Ad hoc discussions for clarification
+* Regular backlog grooming meetings
+* Ad hoc discussions for clarification
 * Review sessions to validate requirements
 
 ### Case Study:
