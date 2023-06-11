@@ -5,7 +5,7 @@ One of the initial steps in the requirements engineering process is to identify 
 
 Application specialists, who have deep domain knowledge, are also crucial in this process. They provide valuable insight into the practical needs of the users and can help in identifying important software features. They can also highlight any constraints or limitations that need to be considered.
 
-For instance, a case study from a medical device software development project shows the importance of involving application specialists. Doctors, nurses, and technicians were consulted to understand the specific needs and constraints in a clinical environment. The input from these specialists was crucial in shaping the functional requirements of the software, leading to a product that was well-suited to its environment and easy for its users to adopt.
+For instance, a **case study** from a medical device software development project shows the importance of involving application specialists. Doctors, nurses, and technicians were consulted to understand the specific needs and constraints in a clinical environment. The input from these specialists was crucial in shaping the functional requirements of the software, leading to a product that was well-suited to its environment and easy for its users to adopt.
 
 ## Topic 2: Translating User Needs into Software Specifications
 

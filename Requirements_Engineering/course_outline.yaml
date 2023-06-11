@@ -20,6 +20,47 @@ Course:
           - "Interaction with Product Owners and Scrum Masters for Requirements Elicitation"
 
     - module 3:
+        title: "Requirements Elicitation"
+        topics:
+          - "Understanding Requirements Elicitation"
+          - "Techniques of Requirements Elicitation: Interviews, Surveys, Document Analysis, Prototyping"
+          - "Elicitation Challenges and Solutions"
+          - "Stakeholder Analysis in Elicitation"
+
+    - module 4:
+        title: "Requirements Analysis and Negotiation"
+        topics:
+          - "Introduction to Requirements Analysis"
+          - "Requirements Prioritization"
+          - "Conflict Resolution during Negotiation"
+          - "Negotiation Strategies and Skills"
+    
+    - module 5:
+        title: "Requirements Documentation"
+        topics:
+          - "Importance of Documentation"
+          - "Requirements Specification Document"
+          - "Use Case Modeling"
+          - "User Stories"
+
+    - module 6:
+        title: "Requirements Validation and Verification"
+        topics:
+          - "Understanding Validation and Verification"
+          - "Techniques for Requirements Verification"
+          - "Techniques for Requirements Validation"
+          - "Managing Changes in Requirements"
+
+    - module 7:
+        title: "Requirements Management"
+        topics:
+          - "Traceability in Requirements Management"
+          - "Version Control for Requirements"
+          - "Tools for Requirements Management"
+          - "Dealing with Changing Requirements"
+
+
+    - module 8:
         title: "Writing Features and User Stories"
         topics:
           - "Understanding Features and User Stories"
@@ -27,7 +68,7 @@ Course:
           - "Building a High-quality Backlog"
           - "Collaboration with Software Teams and Hardware Experts"
 
-    - module 4:
+    - module 9:
         title: "Backlog Management and Prioritization"
         topics:
           - "Backlog Grooming: Moderation and Techniques"
@@ -35,7 +76,7 @@ Course:
           - "Alignment of Working Items: Ensuring Consistency and Completeness"
           - "Understanding and Handling Changes in Requirements"
 
-    - module 5:
+    - module 10:
         title: "Implementing Standards and Processes"
         topics:
           - "Importance of Standards and Processes in Requirements Engineering"
@@ -43,7 +84,7 @@ Course:
           - "Improving Existing Requirements Engineering Processes"
           - "Driving Process Implementation and Compliance"
 
-    - module 6:
+    - module 11:
         title: "Advanced Topics in Requirements Engineering"
         topics:
           - "Model-Based Requirements Engineering"
