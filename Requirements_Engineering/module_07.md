@@ -1,4 +1,4 @@
-# Module 2: Understanding User and Application Requirements
+# Module 7: Understanding User and Application Requirements
 
 ## Topic 1: Identifying User Needs: Stakeholders and Application Specialists
 One of the initial steps in the requirements engineering process is to identify and understand the needs of the users. This is done through the identification of stakeholders and consultation with application specialists. Stakeholders can be anyone who has an interest in the project or will be affected by its outcomes. In the case of a software for ZEISS electron microscopes, this could be the end-users, the technicians who maintain the equipment, the product managers, and even regulatory bodies.

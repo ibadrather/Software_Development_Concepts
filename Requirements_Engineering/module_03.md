@@ -1,5 +1,5 @@
 
-# Module 4: Requirements Analysis and Negotiation
+# Module 3: Requirements Analysis and Negotiation
 
 ## Topic 1: Introduction to Requirements Analysis
 Requirements analysis is the process of reviewing user needs and generating a set of specifications that can be used to implement a system that meets those needs. It involves critical thinking and problem-solving skills to understand the requirements, translate them into a technical language, and ensure that they are clear, complete, consistent, and achievable.

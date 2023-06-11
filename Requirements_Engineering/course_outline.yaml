@@ -12,14 +12,6 @@ Course:
           - "Requirements Engineering vs Requirements Management"
 
     - module 2:
-        title: "Understanding User and Application Requirements"
-        topics:
-          - "Identifying User Needs: Stakeholders and Application Specialists"
-          - "Translating User Needs into Software Specifications"
-          - "Concepts of ZEISS electron microscopes and ZEN software platform"
-          - "Interaction with Product Owners and Scrum Masters for Requirements Elicitation"
-
-    - module 3:
         title: "Requirements Elicitation"
         topics:
           - "Understanding Requirements Elicitation"
@@ -27,7 +19,7 @@ Course:
           - "Elicitation Challenges and Solutions"
           - "Stakeholder Analysis in Elicitation"
 
-    - module 4:
+    - module 3:
         title: "Requirements Analysis and Negotiation"
         topics:
           - "Introduction to Requirements Analysis"
@@ -35,7 +27,7 @@ Course:
           - "Conflict Resolution during Negotiation"
           - "Negotiation Strategies and Skills"
     
-    - module 5:
+    - module 4:
         title: "Requirements Documentation"
         topics:
           - "Importance of Documentation"
@@ -43,7 +35,7 @@ Course:
           - "Use Case Modeling"
           - "User Stories"
 
-    - module 6:
+    - module 5:
         title: "Requirements Validation and Verification"
         topics:
           - "Understanding Validation and Verification"
@@ -51,14 +43,21 @@ Course:
           - "Techniques for Requirements Validation"
           - "Managing Changes in Requirements"
 
-    - module 7:
+    - module 6:
         title: "Requirements Management"
         topics:
           - "Traceability in Requirements Management"
           - "Version Control for Requirements"
           - "Tools for Requirements Management"
           - "Dealing with Changing Requirements"
-
+    
+    - module 7:
+        title: "Understanding User and Application Requirements"
+        topics:
+          - "Identifying User Needs: Stakeholders and Application Specialists"
+          - "Translating User Needs into Software Specifications"
+          - "Concepts of ZEISS electron microscopes and ZEN software platform"
+          - "Interaction with Product Owners and Scrum Masters for Requirements Elicitation"
 
     - module 8:
         title: "Writing Features and User Stories"

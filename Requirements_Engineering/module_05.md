@@ -1,4 +1,4 @@
-# Module 6: Requirements Validation and Verification
+# Module 5: Requirements Validation and Verification
 
 ## Topic 1: Understanding Validation and Verification
 

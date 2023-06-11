@@ -1,4 +1,4 @@
-# Module 3: Requirements Elicitation
+# Module 2: Requirements Elicitation
 
 ## Topic 1: Understanding Requirements Elicitation
 Requirements Elicitation, also known as requirements gathering, is the process of collecting information about system requirements from stakeholders, users, customers and other sources. It's a critical step in the development process, as it provides a foundation for further stages, including design, coding, testing, and deployment.
