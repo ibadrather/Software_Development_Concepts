@@ -1,0 +1,59 @@
+Course:
+  title: "In-depth Requirements Engineering: From User Needs to Product Success"
+  description: "A comprehensive study of Requirements Engineering, its concepts, principles, and practices, specifically tailored towards an agile development context for high-technology product development."
+  modules:
+
+    - module 1:
+        title: "Introduction to Requirements Engineering in Agile Development"
+        topics:
+          - "Definition and Importance of Requirements Engineering"
+          - "The role of Requirements Engineering in Agile Development"
+          - "Types of requirements: Functional and Non-functional"
+          - "Requirements Engineering vs Requirements Management"
+
+    - module 2:
+        title: "Understanding User and Application Requirements"
+        topics:
+          - "Identifying User Needs: Stakeholders and Application Specialists"
+          - "Translating User Needs into Software Specifications"
+          - "Concepts of ZEISS electron microscopes and ZEN software platform"
+          - "Interaction with Product Owners and Scrum Masters for Requirements Elicitation"
+
+    - module 3:
+        title: "Writing Features and User Stories"
+        topics:
+          - "Understanding Features and User Stories"
+          - "Writing Effective User Stories"
+          - "Building a High-quality Backlog"
+          - "Collaboration with Software Teams and Hardware Experts"
+
+    - module 4:
+        title: "Backlog Management and Prioritization"
+        topics:
+          - "Backlog Grooming: Moderation and Techniques"
+          - "Estimation and Prioritization of Work Items"
+          - "Alignment of Working Items: Ensuring Consistency and Completeness"
+          - "Understanding and Handling Changes in Requirements"
+
+    - module 5:
+        title: "Implementing Standards and Processes"
+        topics:
+          - "Importance of Standards and Processes in Requirements Engineering"
+          - "Adapting Agile Methods for Effective Requirement Engineering"
+          - "Improving Existing Requirements Engineering Processes"
+          - "Driving Process Implementation and Compliance"
+
+    - module 6:
+        title: "Advanced Topics in Requirements Engineering"
+        topics:
+          - "Model-Based Requirements Engineering"
+          - "Aspect-Oriented Requirements Engineering"
+          - "Requirements Engineering for Complex Systems"
+          - "Contributing to Product Success in International Teams of Experts"
+
+  resources: 
+    - "User Story Mapping: Discover the Whole Story, Build the Right Product by Jeff Patton"
+    - "Mastering the Requirements Process: Getting Requirements Right by Suzanne Robertson and James C. Robertson"
+    - "Online: IEEE Recommended Practice for Software Requirements Specifications"
+    - "Agile Estimating and Planning by Mike Cohn"
+    - "Succeeding with Agile: Software Development Using Scrum by Mike Cohn"
