@@ -38,3 +38,46 @@ Stakeholder analysis is a crucial part of the elicitation process. This involves
 ### Case Study: Stakeholder Analysis for a Hospital Management System
 For example, when developing a hospital management system, stakeholders could include doctors, nurses, hospital administrators, patients, insurance companies, and more. Each of these stakeholders will have different needs and expectations (doctors might care most about accessing patient medical history, while patients might care most about booking appointments), and these need to be considered when gathering requirements.
 
+---
+
+## Sample Questions
+
+*Can you describe your role and how you interact with the current system?
+
+Understanding the interviewee's role and their interactions with the current system can provide context for their responses.
+
+*What are the main challenges you face with the current system?
+
+This question can help you identify problem areas and functionalities that need improvement.
+
+*What are the main features you use in the current system?
+
+This helps in understanding which features are most important and must be retained or improved in the new system.
+
+*What features are lacking in the current system that you would like to see in the new one?
+
+This provides insights into gaps in the current system and helps identify new requirements for the proposed system.
+
+*Can you describe a typical use case scenario?
+
+This helps in understanding how the user interacts with the system and what their expectations are.
+
+*How would you prioritize these features if you had to choose?
+
+This can assist in understanding the relative importance of various requirements.
+
+*What performance and quality attributes are important for you?
+
+This can help identify non-functional requirements, such as speed, usability, reliability, and security.
+
+*What are some of the constraints that the new system should consider?
+
+This helps uncover any legal, budgetary, or technological constraints that might affect the system.
+
+*Are there any specific compliance or regulatory requirements we need to consider?
+
+Especially important in industries like healthcare, finance, or other regulated sectors.
+
+*How do you foresee the new system improving your daily work?
+
+This can help confirm that the new system's goals align with the user's expectations.
